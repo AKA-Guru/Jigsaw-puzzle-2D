@@ -7,9 +7,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/OnPiecesScript.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/DragAndDrop.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/OnPiecesScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/DragAndDrop.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1yDVQSGRi8VpV7gQFMpPEMzHk2O" />
@@ -22,6 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -52,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1631786140562</updated>
       <workItem from="1631786311472" duration="1682000" />
-      <workItem from="1631813755468" duration="701000" />
+      <workItem from="1631813755468" duration="4838000" />
     </task>
     <servers />
   </component>

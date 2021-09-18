@@ -4,7 +4,10 @@
     <e p="C:\Unity data\Learning with hassan\Jigsaw puzzle 2D" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="DragAndDrop.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="DragAndDrop.cs" t="Include" />
+          <e p="OnPiecesScript.cs" t="Include" />
+        </e>
       </e>
       <e p="Jigsaw puzzle 2D.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
